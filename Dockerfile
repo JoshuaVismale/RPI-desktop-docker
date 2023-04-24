@@ -1,5 +1,5 @@
 # Latest available LSIO image with Ubuntu 20.04
-FROM linuxserver/rdesktop:ubuntu-mate-version-77a977e9
+FROM navikey/raspbian-bullseye
 
 # Update repositories
 RUN apt update -y
